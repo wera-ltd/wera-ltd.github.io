@@ -1,0 +1,1 @@
+import{_ as t}from"./BHt7CBUD.js";import{_ as a}from"./DlAUqK2U.js";import{c as n,o as c,a as r,b as s,K as _}from"./U_UL9mte.js";const d={},f={class:"default-content-wrap"};function l(e,u){const o=t;return c(),n("div",null,[r("div",f,[_(e.$slots,"default",{},void 0,!0)]),s(o)])}const v=a(d,[["render",l],["__scopeId","data-v-42c038eb"]]);export{v as default};
