@@ -1,0 +1,1 @@
+:root{--color-gray:#a7a7a7;--color-black:#000;--color-border:#efefef;--color-white:#fff;--color-blue:#166df1}.push-enter-active,.push-leave-active{position:absolute;transition:transform 1s ease;width:100%}.push-enter-from{transform:translate(-100%)}.push-enter-to,.push-leave-from{transform:translate(0)}.push-leave-to{transform:translate(100%)}
